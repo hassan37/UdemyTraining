@@ -1,0 +1,3 @@
+Must Read: Declaration & Scorpe
+https://golang.org/ref/spec#Declarations_and_scope
+https://golang.org/ref/spec#The_zero_value
